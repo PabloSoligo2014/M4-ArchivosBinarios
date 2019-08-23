@@ -16,6 +16,9 @@ typedef struct {
 }t_cliente;
 
 Total 110, en realidad es 112 por padding
+
+FS2017 =>146
+TITA =>113
 """
 
 
